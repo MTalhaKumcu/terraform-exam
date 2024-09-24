@@ -1,1 +1,1 @@
-hi charly
+Hi this is for terraform exam training
